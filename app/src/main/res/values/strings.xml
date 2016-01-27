@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WebServiceBasics</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="conntectedButton">Se connecter</string>
+    <string name="password">Mot de passe</string>
+    <string name="username">Login</string>
+    <string name="welcomeMessage">Connexion distante</string>
+    <string name="btnConnected">Non connecté</string>
+</resources>
